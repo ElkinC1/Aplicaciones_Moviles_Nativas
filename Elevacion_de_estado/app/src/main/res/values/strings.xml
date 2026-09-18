@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica de elevacion de estado</string>
+    <string name="calculate_tip">Calculadora de propina</string>
+    <string name="bill_amount">Monto</string>
+    <string name="how_was_the_service">Porcentaje</string>
+    <string name="round_up_tip">Redondear</string>
+    <string name="tip_amount">Propina aconsejada %s</string>
+</resources>
