@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">micuadricula</string>
+    <string name="architecture">Arquitectura</string>
+    <string name="automotive">Automotor</string>
+    <string name="biology">Biología</string>
+    <string name="crafts">Artesanía</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinario</string>
+    <string name="design">Diseño</string>
+    <string name="ecology">Ecología</string>
+    <string name="engineering">Ingenieria</string>
+    <string name="fashion">Fashion</string>
+    <string name="finance">Finanzas</string>
+    <string name="film">Film</string>
+    <string name="gaming">Jugando</string>
+    <string name="geology">Geologia</string>
+    <string name="drawing">Dibujando</string>
+    <string name="history">Historia</string>
+    <string name="journalism">Periodismo</string>
+    <string name="law">Ley</string>
+    <string name="lifestyle">Estilo de vida</string>
+    <string name="music">Musica</string>
+    <string name="painting">Pintando</string>
+    <string name="photography">Fotografía</string>
+    <string name="physics">Física</string>
+    <string name="tech">Tech</string>
+</resources>
