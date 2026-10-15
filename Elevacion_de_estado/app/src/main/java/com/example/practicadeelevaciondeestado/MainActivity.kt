@@ -86,6 +86,8 @@ fun CalcularPropinaLayout() {
         EditNumberField(
             label = R.string.bill_amount,
             leadingIcon = R.drawable.money,
+
+
             keyboardOptions = KeyboardOptions.Default.copy(
                 keyboardType = KeyboardType.Number,
                 imeAction = ImeAction.Next
