@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Avengers</string>
+
+    <!-- Nombres -->
+    <string name="hero1">Iron Man</string>
+    <string name="hero2">Capitán América</string>
+    <string name="hero3">Thor</string>
+    <string name="hero4">Hulk</string>
+    <string name="hero5">Black Widow</string>
+    <string name="hero6">Hawkeye</string>
+
+    <!-- Descripciones -->
+    <string name="description1">Genio, millonario, playboy y filántropo.</string>
+    <string name="description2">El supersoldado líder de los Vengadores.</string>
+    <string name="description3">El Dios del Trueno, empuñador de Jonathan.</string>
+    <string name="description4">El científico Bruce Banner, tiene problemas de ira.</string>
+    <string name="description5">Agente de shield que paso por la habitacion roja, es rusa</string>
+    <string name="description6">El vengador más fuerte</string>
+</resources>
