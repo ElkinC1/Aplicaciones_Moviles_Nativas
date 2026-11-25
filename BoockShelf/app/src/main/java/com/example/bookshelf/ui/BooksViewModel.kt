@@ -1,6 +1,5 @@
 package com.example.bookshelf.ui
 
-import android.util.Log
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
@@ -36,13 +35,13 @@ class BooksViewModel(private val booksRepository: BooksRepository) : ViewModel()
             booksUiState = try {
                 BooksUiState.Success(books = booksRepository.getBooks(query))
             } catch (e: IOException) {
-                Log.e("BooksViewModel", "IOException", e)
+                // Log.e removido para evitar que falle el test unitario
                 BooksUiState.Error
             } catch (e: HttpException) {
-                Log.e("BooksViewModel", "HttpException", e)
+                // Log.e removido para evitar que falle el test unitario
                 BooksUiState.Error
             } catch (e: Exception) {
-                Log.e("BooksViewModel", "Exception", e)
+                // Log.e removido para evitar que falle el test unitario
                 BooksUiState.Error
             }
         }
